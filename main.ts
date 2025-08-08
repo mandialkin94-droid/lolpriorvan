@@ -1,4 +1,4 @@
-const TARGET_HOST = "https://priblivonis.icu";
+const TARGET_HOST = "https://vilivolstrinka.shop";
 
 Deno.serve(async (req: Request): Promise<Response> => {
   const url = new URL(req.url);
